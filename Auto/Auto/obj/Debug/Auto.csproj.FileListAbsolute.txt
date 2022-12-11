@@ -1,0 +1,11 @@
+G:\Dokumenty\Downloads\Auto\Auto\Auto\obj\Debug\Auto.csproj.AssemblyReference.cache
+G:\Dokumenty\Downloads\Auto\Auto\Auto\obj\Debug\Auto.csproj.SuggestedBindingRedirects.cache
+G:\Dokumenty\Downloads\Auto\Auto\Auto\obj\Debug\Auto.Form1.resources
+G:\Dokumenty\Downloads\Auto\Auto\Auto\obj\Debug\Auto.Properties.Resources.resources
+G:\Dokumenty\Downloads\Auto\Auto\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+G:\Dokumenty\Downloads\Auto\Auto\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Downloads\Auto\Auto\Auto\bin\Debug\Auto.exe.config
+G:\Dokumenty\Downloads\Auto\Auto\Auto\bin\Debug\Auto.exe
+G:\Dokumenty\Downloads\Auto\Auto\Auto\bin\Debug\Auto.pdb
+G:\Dokumenty\Downloads\Auto\Auto\Auto\obj\Debug\Auto.exe
+G:\Dokumenty\Downloads\Auto\Auto\Auto\obj\Debug\Auto.pdb
